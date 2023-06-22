@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/04/66/93/86/1000_F_466938608_iMKfFk7NwbuuFxaZ3SyEUtsnbHn8iEcQ.jpg)
 <h1 align="center">Hi 👋, I'm Rufat Jafarli</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
